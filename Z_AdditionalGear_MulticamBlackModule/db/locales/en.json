@@ -1,0 +1,17 @@
+{
+	"AddGearUntar_ulach_untar": {
+        "Name": "Heavy UNTAR helmet",
+        "ShortName": "UNTAR",
+        "Description": "The standard issue heavy helmet of the UNTAR mission in Tarkov."
+    },
+	"AddGearUntar_gen4_untar_mob": {
+        "Name": "UNTAR full body armor vest",
+        "ShortName": "Full Body UN",
+        "Description": "4-class full body armor used by UN soldiers during UNTAR mission.\n"
+    },
+	"AddGearUntar_beret_untar": {
+        "Name": "Light blue beret",
+        "ShortName": "Beret",
+        "Description": "Light blue beret. Used by UN soldiers during UNTAR mission."
+    }
+}

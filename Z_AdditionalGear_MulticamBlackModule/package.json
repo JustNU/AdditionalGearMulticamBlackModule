@@ -1,0 +1,10 @@
+{
+    "name": "AdditionalGear - Multicam Black Module",
+    "author": "JustNU",
+    "version": "1.0.0",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "AdditionalGear_Core": "1.0.1"
+    }
+}

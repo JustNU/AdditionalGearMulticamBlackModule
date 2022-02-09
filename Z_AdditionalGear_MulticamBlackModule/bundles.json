@@ -1,0 +1,138 @@
+{
+    "manifest": [
+		{
+            "key": "AddGearMulticamBlack/Headwear/ArmyCapV2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/BaseballCap_Textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/BaseballCap.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearMulticamBlack/Headwear/BaseballCap_Textures.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/DoorKicker.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/Panama.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/TacticalFleece.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/UsecCap_Textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/UsecCap.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearMulticamBlack/Headwear/UsecCap_Textures.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/FastMT_Textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearMulticamBlack/Headwear/FastMT.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/content/items/equipment/customizable/ops_core_fast/helmet_ops_core_fast_arcs_rails_textures.bundle",
+				"AddGearMulticamBlack/Headwear/FastMT_Textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/AnaAlpha.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/AnaM1.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/AnaM2.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/CryeAVS.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/D3CRX.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Rigs/LBT1961A.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearMulticamBlack/Facecover/CFbalaclava.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        }
+    ]
+}
